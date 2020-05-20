@@ -1,0 +1,6 @@
+class QuizDatabase {
+   Question question;
+   List<Answer>  answers;
+
+
+}
